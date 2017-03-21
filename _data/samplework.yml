@@ -1,0 +1,78 @@
+#-------------------------------
+# samplework
+
+samples_all:
+- {
+  title: 'Programming tools - Adventures with R',outlet: 'NATURE',logo: 'r-thumb.png',type: 'article',
+  excerpt: 'For years, geneticist Helene Royo used commercial software to analyse her work. She would extract DNA from the developing sperm cells of ',
+  link: 'http://www.nature.com/news/programming-tools-adventures-with-r-1.16609'
+  }
+- {
+  title: 'Nuclear engineer Katy Huff on version-control systems',outlet: 'NATURE',logo: 'khuff-thumb.jpg',type: 'article',
+  excerpt: 'Katy Huff, a nuclear engineering postdoc at Berkeley, discusses the software',
+  link: 'http://www.nature.com/news/my-digital-toolbox-nuclear-engineer-katy-huff-on-version-control-systems-1.16014'
+  }
+- {
+  title: 'Ecologist Christie Bahlai talks data hygiene',outlet: 'NATURE',logo: 'cbahlai.jpg',type: 'article',
+  excerpt: 'Christie Bahlai, an ecologist at Michigan State University in East Lansing, discusses the software and tools she finds most useful in her research.',
+  link: 'http://www.nature.com/news/my-digital-toolbox-ecologist-christie-bahlai-talks-data-hygiene-1.15896'
+  }
+- {
+  title: 'Interview with Marco Tripodi',outlet: 'NATURE',logo: 'MTripodi.jpg',type: 'article',
+  excerpt: 'We try to understand how neural circuits control movement and in particular directional movement towards a particular target',
+  link: 'http://blogs.nature.com/scientificdata/2014/11/17/data-matters-interview-with-marco-tripodi/'
+  }
+- {
+  title: 'Interview with Anne Guex',outlet: 'NATURE',logo: 'ggeux.jpg',type: 'article',
+  excerpt: 'I work in the field of tissue engineering. My research focus is on the development of polymer scaffolds',
+  link: 'http://blogs.nature.com/scientificdata/2014/10/28/data-matters-interview-with-anne-guex/'
+  }
+- {
+  title: 'Mapping disabled children’s access to education',outlet: 'SciDevNet',logo: 'scidev.png',type: 'article',
+  excerpt: 'Disabled children are commonly believed to be largely excluded from school in developing countries',
+  link: 'http://www.scidev.net/global/education/multimedia/mapping-disabled-children-education.html'
+  }
+- {
+  title: 'Wie Krebszellen auf zusätzliche Chromosomen reagieren',outlet: 'NZZ',logo: 'chrom.jpg',type: 'article',
+  excerpt: 'Was passiert in einer Zelle, wenn sie zusätzliche Chromosomen hat – ein Zustand, der etwa bei Krebszellen',
+  link: 'http://www.nzz.ch/wissen/wissenschaft/wie-krebszellen-auf-zusaetzliche-chromosomen-reagieren-1.17657324'
+  }
+- {
+  title: 'Brain imaging can be used to predict the stock market',outlet: 'QUARTZ',logo: 'traders.png',type: 'article',
+  excerpt: 'Some shares have new owners every second. Today much of the buying and selling is done by computers, but some still rely on human intuition—the gut feeling of the experienced trader',
+  link: 'http://qz.com/233515/how-brain-imaging-can-be-used-to-predict-the-market/'
+  }
+- {
+  title: 'Humans beat computers at ‘sensing numbers’ without counting – for now',outlet: 'The Conversation',logo: 'numbers.jpg',type: 'article',
+  excerpt: 'When faced with choosing the shortest queue at a supermarket, what do you do? Nobody starts counting – what our brain does is “number sensing”.',
+  link: 'http://theconversation.com/humans-beat-computers-at-sensing-numbers-without-counting-for-now-29126'
+  }
+- {
+  title: 'White lies make social networks stronger, but selfish lies tear them apart',outlet: 'The Conversation',logo: 'lying.jpg',type: 'article',
+  excerpt: '“Lying is a bad thing – this is what mentors, parents and teachers tell us. But there is no society without lies.” ',
+  link: 'http://theconversation.com/white-lies-make-social-networks-stronger-but-selfish-lies-tear-them-apart-29634'
+  }
+- {
+  title: 'The BioArcade',outlet: 'Science Friday',logo: 'bioarcade.png',type: 'article',
+  excerpt: 'Genspace — the citizen science hotspot in Brooklyn — biologist Oliver Medvedik and computer programmer Keith Comito discuss how they developed a kit where live single-celled organisms play a ',
+  link: 'http://www.sciencefriday.com/video/09/11/2011/the-bioarcade.html'
+  }
+
+
+
+- {
+  title: 'World Cup 2014 - were Spain too reliant on Barcelona players?',outlet: 'The Guardian',logo: 'spain.jpg',type: 'article',
+  excerpt: 'Does a World Cup team benefit from fielding players from the same clubs? Does the familiarity really help with getting far in the tournament? We began to wonder when reigning world champions Spain',
+  link: 'http://www.theguardian.com/news/datablog/2014/jun/20/world-cup-2014-were-spain-too-reliant-on-barcelona-players'
+  }
+- {
+  title: 'Record number of people in England playing sport regularly ',outlet: 'The Guardian',logo: 'swim.jpg',type: 'article',
+  excerpt: 'What with the World Cup now underway and the Wimbledon tennis championships about to start next week, sport is on the brain for many people across the country.',
+  link: 'http://www.theguardian.com/news/datablog/2014/jun/19/record-number-of-people-in-england-playing-sport-regularly'
+  }
+- {
+  title: 'How many people will get £10,000 fines for speeding? ',outlet: 'The Guardian',logo: 'fine.jpg',type: 'article',
+  excerpt: 'Will the proposed rollout of higher fines make us offend less? The government has announced a fourfold increase of the maximum penalties available to magistrate courts.',
+  link: 'http://www.theguardian.com/news/datablog/2014/jun/12/how-many-people-will-get-10000-fines-for-speeding'
+  }
+

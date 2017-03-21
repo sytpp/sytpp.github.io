@@ -1,0 +1,42 @@
+.writing-intro{
+	text-align: justify;
+}
+
+.samplelogo {
+	width: 100px;
+	height: 80px;
+	display: inline-block;
+	background-size: cover;
+	border-radius: 5%;
+	-moz-border-radius: 5%;
+}
+
+.samples {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 1em;
+
+	@media screen and (max-width: 600px) {
+		margin-bottom: 2em;
+		padding-bottom: 1em;
+		border-bottom: 1px solid #ddd;
+	}
+}
+
+.pic {
+	width: 100px;
+
+	@media screen and (max-width: 600px) {
+		margin: 0 auto;
+	}
+}
+
+.source {
+	margin: {
+		top: 1em;
+		left: 1em;
+	};
+	@media screen and (max-width: 600px) {
+		margin-top: 0;
+	}
+}

@@ -1,0 +1,29 @@
+---
+layout: page
+title: writing
+description: 
+---
+
+<p class="writing-intro">These are some bits and pieces I published between 2012 and 2014, before and while branching out into journalism. They illustrate the transition from rather specialised science communication in molecular biology to science and data journalism for a lay audience. There are interesting challenges on both ends of the spectrum: Being specific, concise, but not boring on one end and simple, yet factually correct on the other. Either way, I try to be interesting.</p>
+
+<br>
+<br>
+
+ <!-- Portfolio Grid Section -->
+    	   {% for samples in site.data.samplework.samples_all %}
+    	   		<div class="samples">
+          			<div class="pic">
+	          			<a class="samplelogo" href="{{ samples.link }}" style="background-image: url('{{ site.baseurl }}img/sample-thumbs/{{ samples.logo }}')">	
+	          			</a>
+          			</div>
+
+          			<div class="source">
+                    	<a href="{{ samples.link }}">{{ samples.title }}<br/>
+                    	{{ samples.outlet }}</a>
+                </div>
+
+     			  </div>
+           
+          {% endfor %}
+
+

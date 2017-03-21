@@ -1,0 +1,22 @@
+
+/* sticky footer */
+
+.wrapper{
+	display: flex;
+	flex-direction: column;
+	
+
+	@media screen and (min-width: 600px) {
+		flex-direction: row;
+	}
+}
+
+
+#wrap {
+	min-height: 100%;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}

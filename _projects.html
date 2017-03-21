@@ -1,0 +1,29 @@
+---
+layout: page
+title: projects
+description: 
+---
+
+<p class="writing-intro">projects.</p>
+
+<br>
+<br>
+
+ <!-- Portfolio Grid Section -->
+    	   {% for project in site.data.projects.projects_all %}
+    	   		<div class="project">
+          			<div class="projectpic">
+	          			<a class="projectlogo" href="{{ project.link }}" style="background-image: url('{{ site.baseurl }}img/project-pics/{{ project.logo }}')">	
+	          			</a>
+          			</div>
+
+          			<div class="projectsource">
+                    	<a href="{{ project.link }}">{{ project.title }}<br/>
+                    	{{ project.subtitle }}</a>
+                </div>
+
+     			  </div>
+           
+          {% endfor %}
+
+

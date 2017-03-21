@@ -1,0 +1,25 @@
+#-------------------------------
+# samplework
+
+
+samples_featured:
+- {
+  title: 'Bilingualism in the UK',outlet: 'Big Data Analysis in R',logo: 'bilingo.png',type: 'article',
+  excerpt: 'I analysed DoE data from 13,800 schools in the UK comparing learning progress of EAL with non-EAL pupils over the last 10 years',
+  link: 'http://www.datablog.sytpp.net/2014/05/bilingualism-in-the-uk/'
+  }
+- {
+  title: 'Bicylce Theft in London',outlet: 'Scraping with Perl',logo: 'biketheft.png',type: 'article',
+  excerpt: 'I scraped Stolen-Bikes.co.uk to visualise all bike thefts in London in one map. OutWitHub hits a limit there, so I used Perl to write litte scraper',
+  link: 'http://www.datablog.sytpp.net/2014/04/bicycle-thefts-over-almost-one-year/'
+  }
+- {
+  title: 'Services for cyclists in London',outlet: 'Google Fusion Tables',logo: 'bike.jpg',type: 'article',
+  excerpt: 'A public bike pump near Victoria Park! Are there more in London? I mapped pumps and other bike must-knows in a multi-layer map',
+  link: 'http://www.datablog.sytpp.net/2014/04/location-of-cycle-conveniences/'
+  }
+- {
+  title: 'Gender Pay Gap in Europe',outlet: 'Vis101: Datawrapper',logo: 'pay.jpg',type: 'article',
+  excerpt: 'Its not a secret - women earn less for the same work. The German Stats Institute (DESTATIS) holds all the data - international and intra-national',
+  link: 'http://www.datablog.sytpp.net/2014/04/is-this-really-the-21st-century/'
+  }

@@ -1,0 +1,43 @@
+.project-intro{
+	text-align: justify;
+}
+
+.projectlogo {
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	background-size: cover;
+	border-radius: 5%;
+	-moz-border-radius: 5%;
+}
+
+.projectpic {
+	width: 160px;
+
+	@media screen and (max-width: 600px) {
+		margin: 0 auto;
+	}
+}
+
+.project {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 1em;
+
+	@media screen and (max-width: 600px) {
+		margin-bottom: 2em;
+		padding-bottom: 1em;
+		border-bottom: 1px solid #ddd;
+	}
+}
+
+
+.projectsource {
+	margin: {
+		top: 1em;
+		left: 1em;
+	};
+	@media screen and (max-width: 600px) {
+		margin-top: 0;
+	}
+}
