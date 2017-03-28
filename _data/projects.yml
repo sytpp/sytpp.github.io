@@ -3,16 +3,9 @@
 
 projects_all:
 - {
-  title: 'The Right to be Forgotten',
-  subtitle: 'An investigative piece',
-  logo: 'Basel.png',
-  description: 'For years, geneticist Helene Royo used commercial software to analyse her work. She would extract DNA from the developing sperm cells of ',
-  link: 'http://www.nature.com/news/programming-tools-adventures-with-r-1.16609'
-  }
-- {
-  title: 'The Right to be Forgotten',
-  subtitle: 'An investigative piece',
-  logo: 'Basel.png',
-  description: 'For years, geneticist Helene Royo used commercial software to analyse her work. She would extract DNA from the developing sperm cells of ',
-  link: 'http://www.nature.com/news/programming-tools-adventures-with-r-1.16609'
+  title: 'A',
+  subtitle: 'A',
+  logo: 'A',
+  description: 'A',
+  link: 'A'
   }

@@ -9,7 +9,8 @@
     </span>
     <span id="nav-links" class="absolute right bottom">
       <!-- Nav pages -->
-	    {% for page in site.pages %}
+	    {% assign sorted_pages = site.pages | sort:"order" %}
+      {% for page in sorted_pages %}
 	      {% if page.layout == "page" %}
 	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
 	      {% endif %}

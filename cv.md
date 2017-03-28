@@ -1,7 +1,8 @@
 ---
 layout: page
-title: cv
+title: -about
 description: 
+order: 2
 ---
 
 ### Learning, living, working in ...
@@ -18,6 +19,7 @@ description:
 |2002-2005|...|**Bachelor of Science in Bioinformatics and Genome Research**, Bielefeld University, GERMANY|
 ||||
 
+<!--
 <div class="wrapper">
 
     <div><img class="citylogo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}img/etc/Brisbane.png')">
@@ -37,18 +39,20 @@ description:
     <div class="cityname">London, UK</div></div>
 
 </div>
-
+-->
 
 
 ||||
 ||||
 
-### Scholarships
+### Awards/Scholarships
 
 ||||
-|2006|...|DAAD Scholarship for BSHons in Biochemistry, AU|
-|2013|...|DAAD Scholarship for MA Science Journalism at New York University, USA|
 |2014|...|Scholarship Studienstiftung des Deutschen Volkes for MA Science Journalims at City University London, UK|
+|2013|...|DAAD Scholarship for MA Science Journalism at New York University, USA|
+|2008|...|PhD Fellowship, Boehringer Ingelheim|
+|2008|...|PhD Scholarship, Novartis Forschungsstiftung|
+|2006|...|DAAD Scholarship for BSHons in Biochemistry, AU|
 ||||
 
 

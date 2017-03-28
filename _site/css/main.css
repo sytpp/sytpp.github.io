@@ -846,7 +846,7 @@ footer {
   -moz-border-radius: 5%; }
 
 .projectpic {
-  width: 160px; }
+  width: 150px; }
   @media screen and (max-width: 600px) {
     .projectpic {
       margin: 0 auto; } }
