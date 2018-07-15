@@ -14,10 +14,10 @@ order: 2
 |2015-2016|...|Freelance Data Scientist, London, UK|
 |2013-2015|...|**MA Journalism**, New York University, USA and City University London, UK|
 |2013-2013|...|Scientific Account Manager, Genedata Basel, SWITZERLAND|
-|2008-2012|...|**PhD in Bioinformatics**, Friedrich Miescher Institute and University of Basel, SWITZERLAND|
-|2007-2008|...|Researcher at the Institute for Molecular Bioscience, Vienna, AUSTRIA|
-|2006-2007|...|**Bachelor of Science Honours in Biochemistry**, University of Queensland, Brisbane AUSTRALIA|
-|2002-2005|...|**Bachelor of Science in Bioinformatics and Genome Research**, Bielefeld University, GERMANY|
+|2008-2012|...|**PhD in Bioinformatics**, Friedrich Miescher Institute and University of Basel, SWITZERLAND <a href="{{ site.baseurl }}/assets/PhD_Thesis_SylviaTIPPMANN.pdf">(thesis link)</a>|
+|2007-2008|...|Researcher at the Institute for Molecular Bioscience, Vienna, AUSTRIA |
+|2006-2007|...|**Bachelor of Science Honours in Biochemistry**, University of Queensland, Brisbane AUSTRALIA <a href="{{ site.baseurl }}/assets/THESIS_BScHons_Prediction-of-HACA-box-rna.pdf">(thesis link)|
+|2002-2005|...|**Bachelor of Science in Bioinformatics and Genome Research**, Bielefeld University, GERMANY <a href="{{ site.baseurl }}/assets/THESIS_BSc_In-Silico-Dicer.pdf">(thesis link)|
 ||||
 
 
